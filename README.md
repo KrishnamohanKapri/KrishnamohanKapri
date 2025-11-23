@@ -126,7 +126,6 @@ I'm a motivated **DevOps Engineer** and **Master's student** in Computer & Syste
 
 ### Master of Science in Research - Computer & Systems Engineering
 **Technische Universität Ilmenau** | *Oct 2023 - Sept 2026 (Expected)*
-- **GPA:** 8.0 CGPA (equivalent to 2.0 in German grading system)
 - **Relevant Coursework:** Software Engineering & DevOps Practices, Cloud Computing & Distributed Systems, System Architecture & Design
 
 ### Bachelor of Science - Information Technology
