@@ -75,7 +75,7 @@ I'm a motivated **DevOps Engineer** and **Master's student** in Computer & Syste
 ## 💼 Professional Experience
 
 ### 🎓 DevOps Engineering Intern
-**Technische Universität Ilmenau** | *Oct 2023 - Present* | Ilmenau, Germany
+**Technische Universität Ilmenau** | *Oct 2025 - Present* | Ilmenau, Germany
 
 - ✅ Implemented comprehensive CI/CD pipeline for MDE4CPP software development with cross-compilation support
 - ✅ Fixed critical Gradle build system compatibility issues for Linux environments
