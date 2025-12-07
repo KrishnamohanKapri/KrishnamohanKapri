@@ -134,19 +134,7 @@ Actively contributing to open-source DevOps practices, containerization strategi
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnamohanKapri&theme=radical&hide_border=true&background=0D1117)
-
 ![3D Contribution Graph](https://raw.githubusercontent.com/KrishnamohanKapri/KrishnamohanKapri/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=KrishnamohanKapri&color=blueviolet&style=for-the-badge)
-
-![GitHub Followers](https://img.shields.io/github/followers/KrishnamohanKapri?label=Followers&style=for-the-badge&color=blueviolet)
-
-![GitHub Stars](https://img.shields.io/github/stars/KrishnamohanKapri?label=Stars&style=for-the-badge&color=blueviolet)
 
 </div>
 
