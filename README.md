@@ -113,85 +113,17 @@ Actively contributing to open-source DevOps practices, containerization strategi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnamohanKapri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnamohanKapri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnamohanKapri&theme=radical&hide_border=true&background=0D1117)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnamohanKapri&theme=redical&hide_border=true&bg_color=0D1117)
-
-</div>
-
 ## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnamohanKapri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_title=false)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnamohanKapri&theme=redical&hide_border=true&bg_color=0D1117&area=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnamohanKapri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6&exclude_repo=)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnamohanKapri&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
-
-</div>
-
-## 📊 GitHub Activity & Contributions
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnamohanKapri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnamohanKapri&theme=redical&hide_border=true&bg_color=0D1117&area=true&line=FF6B6B&point=FF6B6B)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnamohanKapri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnamohanKapri&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnamohanKapri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide=issues&custom_title=My%20GitHub%20Contributions)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnamohanKapri&theme=redical&hide_border=true&bg_color=0D1117&area=true&color=FF6B6B&line=FF6B6B&point=FF6B6B)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnamohanKapri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KrishnamohanKapri&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnamohanKapri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnamohanKapri&theme=radical&hide_border=true&background=0D1117)
 
 </div>
-
-## 🔥 Featured Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrishnamohanKapri&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/KrishnamohanKapri/your-repo-name)
-
-</div>
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnamohanKapri&theme=radical&hide_border=true&bg_color=0D1117)
 
 ---
 
