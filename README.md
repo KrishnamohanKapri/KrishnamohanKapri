@@ -119,6 +119,8 @@ Actively contributing to open-source DevOps practices, containerization strategi
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnamohanKapri&theme=radical&hide_border=true&background=0D1117)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnamohanKapri&theme=redical&hide_border=true&bg_color=0D1117&area=true&color=FF6B6B&line=FF6B6B&point=FF6B6B)
+
 </div>
 
 <div align="center">
