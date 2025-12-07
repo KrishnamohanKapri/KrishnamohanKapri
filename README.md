@@ -117,9 +117,9 @@ Actively contributing to open-source DevOps practices, containerization strategi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnamohanKapri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnamohanKapri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)](https://github.com/KrishnamohanKapri)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnamohanKapri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnamohanKapri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6)](https://github.com/KrishnamohanKapri?tab=repositories)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnamohanKapri&theme=radical&hide_border=true&background=0D1117)
 
