@@ -2,14 +2,24 @@
 
 # 👋 Hi, I'm Krishnamohan Kapri
 
-### DevOps Engineer | Cloud Operations Engineer
+### Junior DevOps Engineer | Cloud Operations Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnamohankapri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaprikrishnamohan@outlook.com)
 
-📍 **Ilmenau, Thuringia, Germany** | 🎓 **Master's Student @ TU Ilmenau** | 🌍 **Open to opportunities in Germany**
+📍 **Erfurt, Germany** | 🎓 **Master's Student @ TU Ilmenau** | 🌍 **Open to remote opportunities**
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+DevOps-focused Master's student in Computer & Systems Engineering with hands-on experience in cloud-native infrastructure, containerization, CI/CD automation, and Infrastructure as Code. I specialize in architecting production-ready Kubernetes clusters using GitOps (Argo CD) and IaC (Terraform + Ansible), reducing deployment times by 80%+ and automating infrastructure provisioning.
+
+🔭 **Currently Working On:** Cloud-native DevOps implementations, Kubernetes orchestration, and GitOps workflows  
+🌱 **Currently Learning:** Advanced Kubernetes patterns, SRE practices, and improving my German  
+💼 **Open to:** Junior DevOps Engineer, SRE Engineer, and Cloud Operations Engineer positions (remote preferred)
 
 ---
 
@@ -19,33 +29,9 @@
 
 ![3D Contribution Graph](https://raw.githubusercontent.com/KrishnamohanKapri/KrishnamohanKapri/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnamohanKapri&theme=radical&hide_border=true&background=0D1117)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnamohanKapri&theme=redical&hide_border=true&bg_color=0D1117&area=true&color=FF6B6B&line=FF6B6B&point=FF6B6B)
 
 </div>
-
-<div align="center">
-
-📊 **Stats:** [GitHub Profile](https://github.com/KrishnamohanKapri) | 💻 **Repos:** [View All](https://github.com/KrishnamohanKapri?tab=repositories)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **DevOps Engineer** and **Master's student** at Technische Universität Ilmenau, where I'm diving deep into containerization, CI/CD automation, and infrastructure as code. Currently, I'm working as a **DevOps Engineering Intern**, building scalable containerized infrastructures and implementing end-to-end automation workflows.
-
-What excites me most is the challenge of making complex systems more reliable, efficient, and automated. I love the problem-solving aspect of DevOps—whether it's reducing build times by 40%+, optimizing CI resource utilization, or architecting solutions that scale.
-
-🔭 **Currently Working On:** End-to-end CI/CD pipeline implementation for MDE4CPP with Docker, Ansible, and GitHub Actions, managing 100+ containerized services
-
-🌱 **Currently Learning:** Kubernetes, Terraform, advanced SRE practices, and actively improving my German
-
-💼 **Open to:** Junior DevOps Engineer, SRE Engineer, and Cloud Operations Engineer positions in Germany
-
-🌍 **Languages:** English (C1) | German (A1-A2 - actively learning)
 
 ---
 
@@ -76,18 +62,27 @@ What excites me most is the challenge of making complex systems more reliable, e
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### Monitoring & Observability
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluent-bit&logoColor=white)
+
+### Networking & API Gateway
+
+![Gateway API](https://img.shields.io/badge/Gateway_API-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Envoy Gateway](https://img.shields.io/badge/Envoy_Gateway-326CE5?style=for-the-badge&logo=envoyproxy&logoColor=white)
 
 ### Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Version Control
 
@@ -100,69 +95,38 @@ What excites me most is the challenge of making complex systems more reliable, e
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 💼 What I'm Currently Working On
+## 🚀 Featured Projects
 
-### Building CI/CD Infrastructure for MDE4CPP
+### ☸️ Cloud-Native DevOps Implementation — Kitchen Management System
+*December 2025 — Present*
 
-*DevOps Engineering Intern @ TU Ilmenau | Oct 2025 - Present*
+Architected and deployed cloud-native infrastructure on Kubernetes (DigitalOcean) using GitOps (Argo CD) and Infrastructure as Code (Terraform + Ansible), automating infrastructure provisioning to production-ready cluster in under 15 minutes with 8+ microservices.
 
-I'm architecting containerized build infrastructure and implementing automation workflows. Here's what I've accomplished:
+**Key Achievements:**
+- Implemented end-to-end CI/CD pipeline with GitHub Actions for automated Docker builds, semantic versioning, and GitOps repository updates, reducing deployment time by 80%+
+- Deployed log aggregation system using Loki and Fluent Bit with custom Grafana dashboards for real-time log analysis
+- Containerized applications with multi-stage Docker builds, optimizing image sizes by 40%+ with security best practices
+- Established multi-repository GitOps architecture with VPC network isolation and bastion host for network segmentation
 
-- 🏗️ Built containerized infrastructure with 100+ services using Docker & Docker Compose
-- ⚙️ Automated server provisioning with Ansible, reducing setup time by 90%+
-- 🚀 Engineered CI/CD pipelines achieving 60% reduction in unnecessary builds
-- 🔄 Created automated PR validation workflows with real-time GitHub feedback
+**Tech Stack:** Kubernetes, Argo CD, GitOps, Terraform, Ansible, GitHub Actions, Docker, DigitalOcean (DOKS), Gateway API, Envoy Gateway, Loki, Grafana, Fluent Bit, GHCR
 
-**Tech Stack:** GitHub Actions, Docker, Ansible, Linux, Bash
+### 🔧 MDE4CPP — University Research Project & Open-Source Contribution
+*October 2025 — Present*
 
----
+Fixed Linux build compatibility issues and created cross-compilation functionality for building Windows binaries on Linux. Architected containerized build infrastructure using Docker and Docker Compose with 50+ component-specific services.
 
-## 🚀 Projects I've Built
+**Key Achievements:**
+- Automated server provisioning using Ansible playbooks, cutting setup time from 2-3 hours to under 15 minutes
+- Built CI/CD pipeline with GitHub Actions dual-runner architecture, reducing unnecessary builds by 60%+
+- Created cross-platform build system for Windows binaries on Linux infrastructure
 
-### 🍽️ Kitchen Management System
-
-*Apr 2025 - Sept 2025*
-
-A full-stack backend system I developed that handles 1000+ API requests daily with 99.5% uptime. I implemented:
-
-- Complete CI/CD pipeline reducing deployment time from 30 minutes to under 5 minutes
-- Payment gateway integration (Stripe & PayPal) with 100% transaction success rate
-- 100+ RESTful API endpoints with comprehensive documentation
-
-**Tech Stack:** Node.js, JavaScript, GitLab CI/CD, Vercel, Postman, SwaggerHub, YAML
-
-### 🔧 MDE4CPP - Open Source Contributions
-
-*Oct 2025 - Present*
-
-Actively contributing to open-source DevOps practices, containerization strategies, and CI/CD pipeline automation. Collaborating with a distributed team to improve build system reliability and infrastructure automation.
-
-**Tech Stack:** Docker, Docker Compose, GitHub Actions, Ansible, Linux
-
----
-
-## 🎓 Education
-
-**Master of Science in Research - Computer & Systems Engineering**  
-*Technische Universität Ilmenau | Oct 2023 - Sept 2026 (Expected)*
-
-**Bachelor of Science - Information Technology**  
-*University of Mumbai | Graduated: April 2022 | GPA: 8.0 CGPA (German grade: 2.0)*
-
----
-
-## 💡 What Drives Me
-
-I'm passionate about:
-
-- 🤖 **Automation:** Making developers' lives easier through efficient CI/CD pipelines
-- 📈 **Optimization:** Constantly finding ways to improve build times, reduce costs, and increase reliability
-- 🏗️ **Infrastructure:** Building scalable, maintainable systems that just work
-- 🌱 **Learning:** Always exploring new technologies and best practices in DevOps/SRE
-- 🤝 **Open Source:** Contributing to projects that make a difference
+**Tech Stack:** GitHub Actions, Docker, Docker Compose, Ansible, Linux (Debian), Bash, Git, Gradle, CMake, Cross-compilation
 
 ---
 
@@ -173,19 +137,15 @@ I'm always open to discussing DevOps, infrastructure automation, or potential op
 - 📧 **Email:** [kaprikrishnamohan@outlook.com](mailto:kaprikrishnamohan@outlook.com)
 - 💼 **LinkedIn:** [linkedin.com/in/krishnamohankapri](https://linkedin.com/in/krishnamohankapri)
 - 📱 **Phone:** +49 176 87731671
-- 🌐 **Location:** Ilmenau, Germany (flexible, willing to relocate)
+- 🌐 **Portfolio:** [krishnamohan-kapri-portfolio.lovable.app](https://krishnamohan-kapri-portfolio.lovable.app/)
+- 🌍 **Location:** Erfurt, Germany (available for remote work globally)
 
 ---
 
 <div align="center">
 
-### ⚡ Fun Fact
-
-I once reduced build times by 40%+ and thought "this is what I want to do forever" 🚀
+[![Profile Views](https://komarev.com/ghpvc/?username=KrishnamohanKapri&color=blueviolet&style=flat-square)](https://github.com/KrishnamohanKapri)
 
 **Thanks for visiting my profile!** ⭐️
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KrishnamohanKapri&color=blueviolet&style=flat-square)](https://github.com/KrishnamohanKapri)
-
 </div>
-
