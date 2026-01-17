@@ -104,11 +104,10 @@ DevOps-focused Master's student in Computer & Systems Engineering with hands-on 
 ## 🚀 Featured Projects
 
 ### ☸️ Cloud-Native DevOps Implementation — Kitchen Management System
-*December 2025 — Present*
-
-Architected and deployed cloud-native infrastructure on Kubernetes (DigitalOcean) using GitOps (Argo CD) and Infrastructure as Code (Terraform + Ansible), automating infrastructure provisioning to production-ready cluster in under 15 minutes with 8+ microservices.
+*December 2025 — January 2026*
 
 **Key Achievements:**
+- Architected and deployed cloud-native infrastructure on Kubernetes (DigitalOcean) using GitOps (Argo CD) and Infrastructure as Code (Terraform + Ansible), automating infrastructure provisioning to production-ready cluster in under 15 minutes with 8+ microservices.
 - Implemented end-to-end CI/CD pipeline with GitHub Actions for automated Docker builds, semantic versioning, and GitOps repository updates, reducing deployment time by 80%+
 - Deployed log aggregation system using Loki and Fluent Bit with custom Grafana dashboards for real-time log analysis
 - Containerized applications with multi-stage Docker builds, optimizing image sizes by 40%+ with security best practices
@@ -119,9 +118,8 @@ Architected and deployed cloud-native infrastructure on Kubernetes (DigitalOcean
 ### 🔧 MDE4CPP — University Research Project & Open-Source Contribution
 *October 2025 — Present*
 
-Fixed Linux build compatibility issues and created cross-compilation functionality for building Windows binaries on Linux. Architected containerized build infrastructure using Docker and Docker Compose with 50+ component-specific services.
-
 **Key Achievements:**
+- Fixed Linux build compatibility issues and created cross-compilation functionality for building Windows binaries on Linux. Architected containerized build infrastructure using Docker and Docker Compose with 50+ component-specific services.
 - Automated server provisioning using Ansible playbooks, cutting setup time from 2-3 hours to under 15 minutes
 - Built CI/CD pipeline with GitHub Actions dual-runner architecture, reducing unnecessary builds by 60%+
 - Created cross-platform build system for Windows binaries on Linux infrastructure
