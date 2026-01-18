@@ -108,13 +108,15 @@ M.Sc. Computer & Systems Engineering student with practical DevOps experience bu
 ### ☸️ Production Kubernetes Platform (GitOps)
 *December 2025 — Present*
 
-Built automated DOKS Kubernetes cluster using Infrastructure as Code (Terraform, Ansible) and GitOps, reducing provisioning time from 2+ hours to under 15 minutes. Implemented CI/CD pipeline with GitHub Actions achieving zero-downtime deployments with automated rollback, reducing deployment time from 30+ minutes to under 5 minutes.
+Kubernetes Infrastructure Automation | Personal Project - Kitchen Management System Deployment Platform
 
 **Key Highlights:**
-- Multi-repository GitOps architecture (3 repositories) for automated deployments and infrastructure versioning
+- Built automated DOKS Kubernetes cluster using Infrastructure as Code (Terraform, Ansible) and GitOps, reducing provisioning time from 2+ hours to under 15 minutes
+- Implemented CI/CD pipeline with GitHub Actions achieving zero-downtime deployments with automated rollback, reducing deployment time from 30+ minutes to under 5 minutes
 - Deployed comprehensive observability stack (Grafana, Loki, Fluent Bit) enabling real-time logging, monitoring, and system health visibility across 8+ microservices
 - Implemented security best practices: VPC network isolation, namespace isolation, bastion host for SSH access, Secrets management, and non-root containers, preventing lateral movement and privilege escalation risks
 - Optimized container images using distroless base images and multi-stage Docker builds, reducing average image size by 40% and improving deployment speed
+- Designed multi-repository GitOps architecture, facilitating automated deployments and infrastructure versioning
 
 **Tech Stack:** Kubernetes, Argo CD, GitOps, Terraform, Ansible, GitHub Actions, Docker, DigitalOcean (DOKS), Loki, Grafana, Fluent Bit, GHCR
 
@@ -124,11 +126,13 @@ Built automated DOKS Kubernetes cluster using Infrastructure as Code (Terraform,
 ### 🔧 MDE4CPP — Open-Source Contribution
 *October 2025 — Present*
 
-Developed CI/CD pipeline with GitHub Actions dual-runner architecture, minimizing unnecessary builds by over 40 percent and optimizing resource usage. Automated server provisioning using Ansible, cutting setup time from 2-3 hours to under 15 minutes. Created containerized build infrastructure using Docker Compose orchestrating 50+ interdependent services, enabling consistent local development environments and reducing setup time by 85%.
+University Research Project - MDE4CPP | Technische Universität Ilmenau
 
 **Key Highlights:**
+- Developed CI/CD pipeline with GitHub Actions dual-runner architecture, minimizing unnecessary builds by over 40 percent and optimizing resource usage
+- Automated server provisioning using Ansible, cutting setup time from 2-3 hours to under 15 minutes
+- Created containerized build infrastructure using Docker Compose orchestrating 50+ interdependent services, enabling consistent local development environments and reducing setup time by 85%
 - Fixed Linux build compatibility and implemented Windows cross-compilation using Docker with lightweight base images, enabling platform-independent builds
-- Cross-platform build system for Windows binaries on Linux infrastructure
 
 **Tech Stack:** GitHub Actions, Docker, Docker Compose, Ansible, Linux (Debian), Bash, Git, Gradle, CMake, Cross-compilation
 
