@@ -140,7 +140,6 @@ I'm always open to discussing DevOps, infrastructure automation, or potential op
 
 - 📧 **Email:** [kaprikrishnamohan@outlook.com](mailto:kaprikrishnamohan@outlook.com)
 - 💼 **LinkedIn:** [linkedin.com/in/krishnamohankapri](https://linkedin.com/in/krishnamohankapri)
-- 📱 **Phone:** +49 176 87731671
 - 🌐 **Portfolio:** [krishnamohan-kapri-portfolio.lovable.app](https://krishnamohan-kapri-portfolio.lovable.app/)
 - 🌍 **Location:** Erfurt, Germany (available for remote work globally)
 
