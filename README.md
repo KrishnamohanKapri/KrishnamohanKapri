@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Krishnamohan Kapri
 
-### Junior DevOps Engineer | Cloud Operations Engineer
+### DevOps Engineer | Cloud Operations Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnamohankapri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaprikrishnamohan@outlook.com)
@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-DevOps-focused Master's student in Computer & Systems Engineering with hands-on experience in cloud-native infrastructure, containerization, CI/CD automation, and Infrastructure as Code. I specialize in architecting production-ready Kubernetes clusters using GitOps (Argo CD) and IaC (Terraform + Ansible), reducing deployment times by 80%+ and automating infrastructure provisioning.
+DevOps Engineer building enterprise-grade cloud infrastructure and automation pipelines. I design production Kubernetes platforms with GitOps and IaC, cutting deployment times by over 80% and delivering rapid, reliable software delivery.
 
-🔭 **Currently Working On:** Cloud-native DevOps implementations, Kubernetes orchestration, and GitOps workflows  
+🔭 **Currently Working On:** Production Kubernetes platforms, GitOps workflows, and cloud-native infrastructure  
 🌱 **Currently Learning:** Advanced Kubernetes patterns, SRE practices, and improving my German  
-💼 **Open to:** Junior DevOps Engineer, SRE Engineer, and Cloud Operations Engineer positions (remote preferred)
+💼 **Open to:** DevOps Engineer, SRE Engineer, and Cloud Operations Engineer positions (remote preferred)
 
 ---
 
@@ -76,6 +76,7 @@ DevOps-focused Master's student in Computer & Systems Engineering with hands-on 
 
 ![Gateway API](https://img.shields.io/badge/Gateway_API-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Envoy Gateway](https://img.shields.io/badge/Envoy_Gateway-326CE5?style=for-the-badge&logo=envoyproxy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Programming & Scripting
 
@@ -103,28 +104,33 @@ DevOps-focused Master's student in Computer & Systems Engineering with hands-on 
 
 ## 🚀 Featured Projects
 
-### ☸️ Cloud-Native DevOps Implementation — Kitchen Management System
-*December 2025 — January 2026*
+### ☸️ Production Kubernetes Platform (GitOps)
+*December 2025 — Present*
 
-**Key Achievements:**
-- Architected and deployed cloud-native infrastructure on Kubernetes (DigitalOcean) using GitOps (Argo CD) and Infrastructure as Code (Terraform + Ansible), automating infrastructure provisioning to production-ready cluster in under 15 minutes with 8+ microservices.
-- Implemented end-to-end CI/CD pipeline with GitHub Actions for automated Docker builds, semantic versioning, and GitOps repository updates, reducing deployment time by 80%+
-- Deployed log aggregation system using Loki and Fluent Bit with custom Grafana dashboards for real-time log analysis
-- Containerized applications with multi-stage Docker builds, optimizing image sizes by 40%+ with security best practices
-- Established multi-repository GitOps architecture with VPC network isolation and bastion host for network segmentation
+Architected Kubernetes cluster on DigitalOcean with over 8 microservices using GitOps and IaC (Terraform, Ansible), cutting infrastructure provisioning time to under 15 minutes. Built CI/CD pipeline with GitHub Actions for zero-downtime deployments with automated rollback, slashing deployment time by over 80% and optimizing container images by over 40% using multi-stage builds.
 
-**Tech Stack:** Kubernetes, Argo CD, GitOps, Terraform, Ansible, GitHub Actions, Docker, DigitalOcean (DOKS), Gateway API, Envoy Gateway, Loki, Grafana, Fluent Bit, GHCR
+**Key Highlights:**
+- Multi-repository GitOps architecture (3 repositories) for automated deployments and infrastructure versioning
+- Observability stack (Loki, Fluent Bit, Grafana) for logging and monitoring across 8+ microservices
+- Security best practices: namespace isolation, Secrets/ConfigMaps, VPC segmentation with bastion, non-root containers
 
-### 🔧 MDE4CPP — University Research Project & Open-Source Contribution
+**Tech Stack:** Kubernetes, Argo CD, GitOps, Terraform, Ansible, GitHub Actions, Docker, DigitalOcean (DOKS), Loki, Grafana, Fluent Bit, GHCR
+
+**🔗 Repositories:**
+[KMS-app](https://github.com/KrishnamohanKapri/KMS-app) • [KMS-gitops](https://github.com/KrishnamohanKapri/KMS-gitops) • [KMS-infra](https://github.com/KrishnamohanKapri/KMS-infra)
+
+### 🔧 MDE4CPP — Open-Source Contribution
 *October 2025 — Present*
 
-**Key Achievements:**
-- Fixed Linux build compatibility issues and created cross-compilation functionality for building Windows binaries on Linux. Architected containerized build infrastructure using Docker and Docker Compose with 50+ component-specific services.
-- Automated server provisioning using Ansible playbooks, cutting setup time from 2-3 hours to under 15 minutes
-- Built CI/CD pipeline with GitHub Actions dual-runner architecture, reducing unnecessary builds by 60%+
-- Created cross-platform build system for Windows binaries on Linux infrastructure
+Fixed Linux build compatibility and implemented Windows cross-compilation using Docker with lightweight base images, allowing platform-independent builds. Architected containerized build infrastructure with Docker Compose supporting over 50 services. Automated server provisioning using Ansible, cutting setup time from 2-3 hours to under 15 minutes.
+
+**Key Highlights:**
+- Built CI/CD pipeline with GitHub Actions dual-runner architecture, minimizing unnecessary builds by over 40% and optimizing resource usage
+- Cross-platform build system for Windows binaries on Linux infrastructure
 
 **Tech Stack:** GitHub Actions, Docker, Docker Compose, Ansible, Linux (Debian), Bash, Git, Gradle, CMake, Cross-compilation
+
+**🔗 Repository:** [MDE4CPP/ContinuousIntegration](https://github.com/MDE4CPP/MDE4CPP/tree/ContinuousIntegration)
 
 ---
 
