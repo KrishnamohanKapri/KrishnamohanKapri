@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Krishnamohan Kapri
 
-### DevOps Engineer | Cloud Operations Engineer
+### DevOps Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnamohankapri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaprikrishnamohan@outlook.com)
 
-📍 **Erfurt, Germany** | 🎓 **Master's Student @ TU Ilmenau** | 🌍 **Open to remote opportunities**
+📍 **Ilmenau, Germany** | 🎓 **Master's Student @ TU Ilmenau** | 🌍 **Open to remote opportunities**
 
 </div>
 
@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-DevOps Engineer building enterprise-grade cloud infrastructure and automation pipelines. I design production Kubernetes platforms with GitOps and IaC, cutting deployment times by over 80% and delivering rapid, reliable software delivery.
+M.Sc. Computer & Systems Engineering student with practical DevOps experience building Kubernetes clusters, automating CI/CD pipelines, and implementing Infrastructure as Code using Terraform and Ansible. Demonstrated skills through hands-on personal and university projects.
 
 🔭 **Currently Working On:** Production Kubernetes platforms, GitOps workflows, and cloud-native infrastructure  
 🌱 **Currently Learning:** Advanced Kubernetes patterns, SRE practices, and improving my German  
-💼 **Open to:** DevOps Engineer, SRE Engineer, and Cloud Operations Engineer positions (remote preferred)
+💼 **Open to:** DevOps Working Student position (up to 20h/week) till September 2026, with potential for full-time Junior DevOps Engineer role upon graduation
 
 ---
 
@@ -50,6 +50,7 @@ DevOps Engineer building enterprise-grade cloud infrastructure and automation pi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### Infrastructure as Code
 
@@ -107,12 +108,13 @@ DevOps Engineer building enterprise-grade cloud infrastructure and automation pi
 ### ☸️ Production Kubernetes Platform (GitOps)
 *December 2025 — Present*
 
-Architected Kubernetes cluster on DigitalOcean with over 8 microservices using GitOps and IaC (Terraform, Ansible), cutting infrastructure provisioning time to under 15 minutes. Built CI/CD pipeline with GitHub Actions for zero-downtime deployments with automated rollback, slashing deployment time by over 80% and optimizing container images by over 40% using multi-stage builds.
+Built automated DOKS Kubernetes cluster using Infrastructure as Code (Terraform, Ansible) and GitOps, reducing provisioning time from 2+ hours to under 15 minutes. Implemented CI/CD pipeline with GitHub Actions achieving zero-downtime deployments with automated rollback, reducing deployment time from 30+ minutes to under 5 minutes.
 
 **Key Highlights:**
 - Multi-repository GitOps architecture (3 repositories) for automated deployments and infrastructure versioning
-- Observability stack (Loki, Fluent Bit, Grafana) for logging and monitoring across 8+ microservices
-- Security best practices: namespace isolation, Secrets/ConfigMaps, VPC segmentation with bastion, non-root containers
+- Deployed comprehensive observability stack (Grafana, Loki, Fluent Bit) enabling real-time logging, monitoring, and system health visibility across 8+ microservices
+- Implemented security best practices: VPC network isolation, namespace isolation, bastion host for SSH access, Secrets management, and non-root containers, preventing lateral movement and privilege escalation risks
+- Optimized container images using distroless base images and multi-stage Docker builds, reducing average image size by 40% and improving deployment speed
 
 **Tech Stack:** Kubernetes, Argo CD, GitOps, Terraform, Ansible, GitHub Actions, Docker, DigitalOcean (DOKS), Loki, Grafana, Fluent Bit, GHCR
 
@@ -122,10 +124,10 @@ Architected Kubernetes cluster on DigitalOcean with over 8 microservices using G
 ### 🔧 MDE4CPP — Open-Source Contribution
 *October 2025 — Present*
 
-Fixed Linux build compatibility and implemented Windows cross-compilation using Docker with lightweight base images, allowing platform-independent builds. Architected containerized build infrastructure with Docker Compose supporting over 50 services. Automated server provisioning using Ansible, cutting setup time from 2-3 hours to under 15 minutes.
+Developed CI/CD pipeline with GitHub Actions dual-runner architecture, minimizing unnecessary builds by over 40 percent and optimizing resource usage. Automated server provisioning using Ansible, cutting setup time from 2-3 hours to under 15 minutes. Created containerized build infrastructure using Docker Compose orchestrating 50+ interdependent services, enabling consistent local development environments and reducing setup time by 85%.
 
 **Key Highlights:**
-- Built CI/CD pipeline with GitHub Actions dual-runner architecture, minimizing unnecessary builds by over 40% and optimizing resource usage
+- Fixed Linux build compatibility and implemented Windows cross-compilation using Docker with lightweight base images, enabling platform-independent builds
 - Cross-platform build system for Windows binaries on Linux infrastructure
 
 **Tech Stack:** GitHub Actions, Docker, Docker Compose, Ansible, Linux (Debian), Bash, Git, Gradle, CMake, Cross-compilation
@@ -141,7 +143,7 @@ I'm always open to discussing DevOps, infrastructure automation, or potential op
 - 📧 **Email:** [kaprikrishnamohan@outlook.com](mailto:kaprikrishnamohan@outlook.com)
 - 💼 **LinkedIn:** [linkedin.com/in/krishnamohankapri](https://linkedin.com/in/krishnamohankapri)
 - 🌐 **Portfolio:** [krishnamohan-kapri-portfolio.lovable.app](https://krishnamohan-kapri-portfolio.lovable.app/)
-- 🌍 **Location:** Erfurt, Germany (available for remote work globally)
+- 🌍 **Location:** Ilmenau, Germany (available for remote work globally)
 
 ---
 
