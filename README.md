@@ -29,8 +29,6 @@ M.Sc. Computer & Systems Engineering student with practical DevOps experience bu
 
 ![3D Contribution Graph](https://raw.githubusercontent.com/KrishnamohanKapri/KrishnamohanKapri/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnamohanKapri&theme=redical&hide_border=true&bg_color=0D1117&area=true&color=FF6B6B&line=FF6B6B&point=FF6B6B)
-
 </div>
 
 ---
