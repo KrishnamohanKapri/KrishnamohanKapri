@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnamohankapri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaprikrishnamohan@outlook.com)
 
-📍 **Ilmenau, Germany** | 🎓 **Master's Student @ TU Ilmenau** | 🌍 **Open to remote opportunities**
+📍 **Germany**
 
 </div>
 
@@ -139,7 +139,6 @@ I'm always open to discussing DevOps, infrastructure automation, or potential op
 - 📧 **Email:** [kaprikrishnamohan@outlook.com](mailto:kaprikrishnamohan@outlook.com)
 - 💼 **LinkedIn:** [linkedin.com/in/krishnamohankapri](https://linkedin.com/in/krishnamohankapri)
 - 🌐 **Portfolio:** [krishnamohan-kapri-portfolio.lovable.app](https://krishnamohan-kapri-portfolio.lovable.app/)
-- 🌍 **Location:** Ilmenau, Germany (available for remote work globally)
 
 ---
 
