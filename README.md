@@ -13,13 +13,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## 📋 Summary
 
-M.Sc. Computer & Systems Engineering student with practical DevOps experience building Kubernetes clusters, automating CI/CD pipelines, and implementing Infrastructure as Code using Terraform and Ansible. Demonstrated skills through hands-on personal and university projects.
+DevOps Engineer with hands-on experience in Kubernetes automation, CI/CD pipelines, and Infrastructure as Code using Terraform and Ansible. Demonstrated skills through personal and university projects including automated cluster provisioning under 15 minutes and deployment automation under 5 minutes. Completing M.Sc. Computer Engineering (September 2026).
 
-🔭 **Currently Working On:** Production Kubernetes platforms, GitOps workflows, and cloud-native infrastructure  
-🌱 **Currently Learning:** Advanced Kubernetes patterns, SRE practices, and improving my German  
-💼 **Open to:** DevOps Working Student position (up to 20h/week) till September 2026, with potential for full-time Junior DevOps Engineer role upon graduation
+**Core Competencies:** Kubernetes, Docker, Terraform, Ansible, GitHub Actions, CI/CD, GitOps
 
 ---
 
@@ -103,38 +101,34 @@ M.Sc. Computer & Systems Engineering student with practical DevOps experience bu
 
 ## 🚀 Featured Projects
 
-### ☸️ Production Kubernetes Platform (GitOps)
+### ☸️ Kitchen Management System - Deployment Automation
 *December 2025 — Present*
 
-Kubernetes Infrastructure Automation | Personal Project - Kitchen Management System Deployment Platform
+**Personal Project**
 
 **Key Highlights:**
-- Built automated DOKS Kubernetes cluster using Infrastructure as Code (Terraform, Ansible) and GitOps, reducing provisioning time from 2+ hours to under 15 minutes
-- Implemented CI/CD pipeline with GitHub Actions achieving zero-downtime deployments with automated rollback, reducing deployment time from 30+ minutes to under 5 minutes
-- Deployed comprehensive observability stack (Grafana, Loki, Fluent Bit) enabling real-time logging, monitoring, and system health visibility across 8+ microservices
-- Implemented security best practices: VPC network isolation, namespace isolation, bastion host for SSH access, Secrets management, and non-root containers, preventing lateral movement and privilege escalation risks
-- Optimized container images using distroless base images and multi-stage Docker builds, reducing average image size by 40% and improving deployment speed
-- Designed multi-repository GitOps architecture, facilitating automated deployments and infrastructure versioning
+- Automated cluster provisioning to less than 15 minutes using Terraform, Ansible, and GitOps workflow
+- Enabled zero-downtime deployments via GitHub Actions CI/CD with rolling updates across replicated pods
+- Built real-time observability with Grafana, Loki, and Fluent Bit monitoring stack for 2 microservices
+- Reduced image sizes by 80-90% using multi-stage Docker builds with Alpine base images
+- Hardened security through VPC isolation, namespace segmentation, bastion access, and non-root containers
+- Automated infrastructure versioning and deployments with 3-repository GitOps architecture using Argo CD
 
-**Tech Stack:** Kubernetes, Argo CD, GitOps, Terraform, Ansible, GitHub Actions, Docker, DigitalOcean (DOKS), Loki, Grafana, Fluent Bit, GHCR
+**🔗 GitHub:** [github.com/KrishnamohanKapri](https://github.com/KrishnamohanKapri) ([KMS-app](https://github.com/KrishnamohanKapri/KMS-app) | [KMS-gitops](https://github.com/KrishnamohanKapri/KMS-gitops) | [KMS-infra](https://github.com/KrishnamohanKapri/KMS-infra))
 
-**🔗 Repositories:**
-[KMS-app](https://github.com/KrishnamohanKapri/KMS-app) • [KMS-gitops](https://github.com/KrishnamohanKapri/KMS-gitops) • [KMS-infra](https://github.com/KrishnamohanKapri/KMS-infra)
-
-### 🔧 MDE4CPP — Open-Source Contribution
+### 🔧 MDE4CPP - Open-Source Contribution
 *October 2025 — Present*
 
-University Research Project - MDE4CPP | Technische Universität Ilmenau
+**University Research Project | Technische Universität Ilmenau**
 
 **Key Highlights:**
-- Developed CI/CD pipeline with GitHub Actions dual-runner architecture, minimizing unnecessary builds by over 40 percent and optimizing resource usage
-- Automated server provisioning using Ansible, cutting setup time from 2-3 hours to under 15 minutes
-- Created containerized build infrastructure using Docker Compose orchestrating 50+ interdependent services, enabling consistent local development environments and reducing setup time by 85%
-- Fixed Linux build compatibility and implemented Windows cross-compilation using Docker with lightweight base images, enabling platform-independent builds
+- Eliminated manual builds by developing dual-runner CI/CD with automated component detection on GitHub-hosted runner and self-hosted university server builds
+- Automated server provisioning to less than 10 minutes with Ansible playbook for Docker, Git, and GitHub Runner setup
+- Streamlined development setup from hours to single command using Docker Compose orchestrating 60+ services with automated Bash scripts
+- Containerized entire build environment with unified Docker image including Eclipse, CMake, and other dependencies
+- Enabled cross-platform builds by fixing Linux compatibility and implementing Windows cross-compilation
 
-**Tech Stack:** GitHub Actions, Docker, Docker Compose, Ansible, Linux (Debian), Bash, Git, Gradle, CMake, Cross-compilation
-
-**🔗 Repository:** [MDE4CPP/ContinuousIntegration](https://github.com/MDE4CPP/MDE4CPP/tree/ContinuousIntegration)
+**🔗 GitHub:** [github.com/MDE4CPP/MDE4CPP/tree/ContinuousIntegration](https://github.com/MDE4CPP/MDE4CPP/tree/ContinuousIntegration)
 
 ---
 
