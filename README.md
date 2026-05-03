@@ -8,4 +8,3 @@ I like working across the stack, from cloud and platform engineering to develope
 
 - Email: [kaprikrishnamohan@outlook.com](mailto:kaprikrishnamohan@outlook.com)
 - LinkedIn: [linkedin.com/in/krishnamohankapri](https://linkedin.com/in/krishnamohankapri)
-- GitHub: [github.com/KrishnamohanKapri](https://github.com/KrishnamohanKapri)
